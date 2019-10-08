@@ -1,12 +1,26 @@
-# Github Preview Theme
+# Nord Preview
 
-A default Markdown preview theme for [Inkdrop](https://www.inkdrop.info/).
+Nord preview theme for Inkdrop.
 
- * `styles/github-markdown.less` - Styles for light UI theme
- * `styles/github-markdown-dark.less` - Styles for dark UI theme
+### Note
 
-## Theming code blocks
+This Repository is only preview theme. If you want to install fully Nord theme, you need to install ui and syntax theme.
 
-Highlighting code blocks is built with [CodeMirror](https://codemirror.net/demo/theme.html), and CSS selectors for styling code blocks are compatible with it.
-CSS selectors always start with `cm-`.
-You can easily import styles from [CodeMirror's theme](https://github.com/codemirror/CodeMirror/tree/master/theme).
+## Screenshot
+
+![screenshot](./Screenshot.png)
+
+## Instllation
+
+```sh
+$ ipm install nord-preview
+
+# Additional
+$ ipm install nord-ui
+$ ipm install nord-syntax
+```
+
+## Related
+
+* [choco14t/inkdrop-nord-ui-theme](https://github.com/choco14t/inkdrop-nord-ui-theme)
+* [choco14t/inkdrop-nord-syntax-theme](https://github.com/choco14t/inkdrop-nord-syntax-theme)
