@@ -8,7 +8,7 @@ This Repository is only preview theme. If you want to install fully Nord theme, 
 
 ## Screenshot
 
-![screenshot](./Screenshot.png)
+![screenshot](https://github.com/choco14t/inkdrop-nord-preview-theme/blob/master/Screenshot.png)
 
 ## Instllation
 
