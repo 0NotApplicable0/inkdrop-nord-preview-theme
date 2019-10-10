@@ -10,7 +10,7 @@ This Repository is only preview theme. If you want to install fully Nord theme, 
 
 ![screenshot](https://raw.githubusercontent.com/choco14t/inkdrop-nord-preview-theme/master/Screenshot.png)
 
-## Instllation
+## Installation
 
 ```sh
 $ ipm install nord-preview
