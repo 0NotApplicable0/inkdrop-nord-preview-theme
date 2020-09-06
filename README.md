@@ -1,5 +1,8 @@
 # Nord Preview
 
+![Inkdrop Plugin Version](https://inkdrop-plugin-badge.vercel.app/api/version/nord-preview&style=for-the-badge)
+![Inkdrop Plugin Downloads](https://inkdrop-plugin-badge.vercel.app/api/downloads/nord-preview&style=for-the-badge)
+
 Nord preview theme for Inkdrop.
 
 ### Note
