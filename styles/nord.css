@@ -1,0 +1,148 @@
+body[class*='nord-ui'] .mde-preview {
+  color: rgba(255, 255, 255, 0.7);
+}
+body[class*='nord-ui'] .mde-preview a {
+  background-color: transparent;
+}
+body[class*='nord-ui'] .mde-preview img {
+  border: 0;
+}
+body[class*='nord-ui'] .mde-preview input {
+  color: inherit;
+}
+body[class*='nord-ui'] .mde-preview a {
+  color: #6987af;
+}
+body[class*='nord-ui'] .mde-preview h1,
+body[class*='nord-ui'] .mde-preview h2,
+body[class*='nord-ui'] .mde-preview h3,
+body[class*='nord-ui'] .mde-preview h4,
+body[class*='nord-ui'] .mde-preview h5,
+body[class*='nord-ui'] .mde-preview h6 {
+  color: rgba(255, 255, 255, 0.875);
+}
+body[class*='nord-ui'] .mde-preview h6 {
+  color: rgba(255, 255, 255, 0.625);
+}
+body[class*='nord-ui'] .mde-preview h1,
+body[class*='nord-ui'] .mde-preview h2 {
+  border-bottom-color: rgba(255, 255, 255, 0.4);
+}
+body[class*='nord-ui'] .mde-preview hr {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+body[class*='nord-ui'] .mde-preview blockquote {
+  color: rgba(255, 255, 255, 0.4);
+  border-left: 4px solid rgba(255, 255, 255, 0.3);
+}
+body[class*='nord-ui'] .mde-preview table th {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+body[class*='nord-ui'] .mde-preview table th,
+body[class*='nord-ui'] .mde-preview table td {
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+body[class*='nord-ui'] .mde-preview table tr {
+  background-color: transparent;
+  border-top: 1px solid rgba(255, 255, 255, 0.25);
+}
+body[class*='nord-ui'] .mde-preview table tr:nth-child(2n) {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+body[class*='nord-ui'] .mde-preview img {
+  background-color: transparent;
+}
+body[class*='nord-ui'] .mde-preview .highlight pre,
+body[class*='nord-ui'] .mde-preview pre {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+body[class*='nord-ui'] .mde-preview .cm-header {
+  color: #ffcc66;
+}
+body[class*='nord-ui'] .mde-preview .cm-quote {
+  color: #969896;
+  font-style: italic;
+}
+body[class*='nord-ui'] .mde-preview .cm-negative {
+  color: #d44;
+}
+body[class*='nord-ui'] .mde-preview .cm-positive {
+  color: #292;
+}
+body[class*='nord-ui'] .mde-preview .cm-header,
+body[class*='nord-ui'] .mde-preview .cm-strong {
+  font-weight: bold;
+}
+body[class*='nord-ui'] .mde-preview .cm-em {
+  font-style: italic;
+}
+body[class*='nord-ui'] .mde-preview .cm-link {
+  text-decoration: underline;
+}
+body[class*='nord-ui'] .mde-preview .cm-strikethrough {
+  text-decoration: line-through;
+}
+body[class*='nord-ui'] .mde-preview .cm-keyword {
+  color: #81A1C1;
+  font-weight: normal;
+}
+body[class*='nord-ui'] .mde-preview .cm-atom {
+  color: #81A1C1;
+}
+body[class*='nord-ui'] .mde-preview .cm-number {
+  color: #B48EAD;
+}
+body[class*='nord-ui'] .mde-preview .cm-def,
+body[class*='nord-ui'] .mde-preview .cm-property {
+  color: #88C0D0;
+}
+body[class*='nord-ui'] .mde-preview .cm-operator {
+  color: #81A1C1;
+}
+body[class*='nord-ui'] .mde-preview .cm-variable {
+  color: #8FBCBB;
+}
+body[class*='nord-ui'] .mde-preview .cm-variable-2 {
+  color: #D8DEE9;
+}
+body[class*='nord-ui'] .mde-preview .cm-variable-3,
+body[class*='nord-ui'] .mde-preview .cm-type {
+  color: rgba(255, 255, 255, 0.8);
+}
+body[class*='nord-ui'] .mde-preview .cm-comment {
+  color: #4C566A;
+  font-style: italic;
+}
+body[class*='nord-ui'] .mde-preview .cm-string {
+  color: #A3BE8C;
+}
+body[class*='nord-ui'] .mde-preview .cm-string-2 {
+  color: #8FBCBB;
+}
+body[class*='nord-ui'] .mde-preview .cm-meta {
+  color: #f99157;
+}
+body[class*='nord-ui'] .mde-preview .cm-qualifier {
+  color: #8FBCBB;
+}
+body[class*='nord-ui'] .mde-preview .cm-builtin {
+  color: #88C0D0;
+}
+body[class*='nord-ui'] .mde-preview .cm-bracket {
+  color: #f99157;
+}
+body[class*='nord-ui'] .mde-preview .cm-tag {
+  color: #a54543;
+}
+body[class*='nord-ui'] .mde-preview .cm-attribute {
+  color: #D08770;
+}
+body[class*='nord-ui'] .mde-preview .cm-hr {
+  color: #999;
+}
+body[class*='nord-ui'] .mde-preview .cm-link {
+  color: #D08770;
+}
+body[class*='nord-ui'] .mde-preview .cm-error {
+  color: #BF616A;
+}
