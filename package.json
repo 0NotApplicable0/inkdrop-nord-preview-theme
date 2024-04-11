@@ -3,12 +3,19 @@
   "description": "Nord preview theme for Inkdrop Markdown Editor",
   "version": "1.0.0",
   "theme": "preview",
-  "repository": "https://github.com/choco14t/inkdrop-nord-preview-theme",
+  "repository": "https://github.com/0NotApplicable0/inkdrop-nord-preview-theme",
   "scripts": {
     "build": "lessc styles/less/github-markdown.less ./styles/github-markdown.css && lessc styles/less/nord.less ./styles/nord.css"
   },
   "license": "MIT",
   "author": "choco14t<chocoh14t@gmail.com>",
+  "contributors": [
+    {
+      "name": "0NotApplicable0",
+      "email": "nick@splitrock.dev",
+      "url": "https://splitrock.dev"
+    }
+  ],
   "styleSheets": [
     "github-markdown.css",
     "nord.css",
@@ -16,7 +23,7 @@
     "gfm-alerts.css"
   ],
   "engines": {
-    "inkdrop": "^5.x"
+    "inkdrop": "^5.8.X"
   },
   "devDependencies": {
     "less": "^3.11.3"
