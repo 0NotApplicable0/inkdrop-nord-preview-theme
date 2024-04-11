@@ -4,13 +4,21 @@
   "version": "1.0.0",
   "theme": "preview",
   "repository": "https://github.com/choco14t/inkdrop-nord-preview-theme",
+  "scripts": {
+    "build": "lessc styles/less/github-markdown.less ./styles/github-markdown.css && lessc styles/less/github-markdown-dark.less ./styles/github-markdown-dark.css"
+  },
   "license": "MIT",
   "author": "choco14t<chocoh14t@gmail.com>",
   "styleSheets": [
     "github-markdown.less",
     "nord.less"
+    "metadata-section.css"
+    "gfm-alerts.css",
   ],
   "engines": {
-    "inkdrop": "^4.x"
+    "inkdrop": "^5.x"
+  },
+  "devDependencies": {
+    "less": "^3.11.3"
   }
 }
