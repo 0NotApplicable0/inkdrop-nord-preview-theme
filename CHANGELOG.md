@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/0NotApplicable0/inkdrop-nord-preview-theme/compare/v1.2.0...v1.2.1) (2024-04-16)
+
+
+### Bug Fixes
+
+* bold and italic colors ([#3](https://github.com/0NotApplicable0/inkdrop-nord-preview-theme/issues/3)) ([3f35119](https://github.com/0NotApplicable0/inkdrop-nord-preview-theme/commit/3f35119c5a72567bd5df9ab4c892203d0da68e72))
+
 ## [1.1.0](https://github.com/0NotApplicable0/inkdrop-nord-preview-theme/compare/v1.0.0...v1.1.0) (2024-04-12)
 
 
