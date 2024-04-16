@@ -11,8 +11,8 @@ This Repository is only preview theme. If you want to install fully Nord theme, 
 
 ## Screenshot
 
-![image1](https://github.com/0NotApplicable0/inkdrop-nord-preview-theme/assets/32582432/a004f437-b39d-4bbe-8602-0e6325caa271)
-![image2](https://github.com/0NotApplicable0/inkdrop-nord-preview-theme/assets/32582432/28c89910-471e-4787-8fe7-b83822e20489)
+![screenshot](https://raw.githubusercontent.com/0NotApplicable0/inkdrop-nord-syntax-theme/master/screenshot_1.png)
+![screenshotd2](https://raw.githubusercontent.com/0NotApplicable0/inkdrop-nord-syntax-theme/master/screenshot_2.png)
 
 ## Installation
 
