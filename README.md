@@ -25,5 +25,5 @@ $ ipm install nord-syntax
 
 ## Related
 
-* [choco14t/inkdrop-nord-ui-theme](https://github.com/choco14t/inkdrop-nord-ui-theme)
-* [choco14t/inkdrop-nord-syntax-theme](https://github.com/choco14t/inkdrop-nord-syntax-theme)
+* [0NotApplicable0/inkdrop-nord-ui-theme](https://github.com/0NotApplicable0/inkdrop-nord-ui-theme)
+* [0NotApplicable0/inkdrop-nord-syntax-theme](https://github.com/0NotApplicable0/inkdrop-nord-syntax-theme)
