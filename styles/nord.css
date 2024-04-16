@@ -1,6 +1,12 @@
 body[class*='nord-ui'] .mde-preview {
   color: rgba(255, 255, 255, 0.7);
 }
+body[class*='nord-ui'] .mde-preview strong {
+  color: rgba(255, 255, 255, 0.9);
+}
+body[class*='nord-ui'] .mde-preview em {
+  color: rgba(255, 255, 255, 0.7);
+}
 body[class*='nord-ui'] .mde-preview a {
   background-color: transparent;
 }
