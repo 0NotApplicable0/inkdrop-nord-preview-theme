@@ -5,7 +5,7 @@
   "theme": "preview",
   "repository": "https://github.com/0NotApplicable0/inkdrop-nord-preview-theme",
   "scripts": {
-    "build": "lessc styles/less/github-markdown.less ./styles/github-markdown.css && lessc styles/less/nord.less ./styles/nord.css"
+    "build": "lessc styles/less/nord.less ./styles/nord.css"
   },
   "license": "MIT",
   "author": "choco14t<chocoh14t@gmail.com>",
@@ -17,13 +17,10 @@
     }
   ],
   "styleSheets": [
-    "github-markdown.css",
-    "nord.css",
-    "metadata-section.css",
-    "gfm-alerts.css"
+    "nord.css"
   ],
   "engines": {
-    "inkdrop": "5.8.x"
+    "inkdrop": "^5.8.1"
   },
   "devDependencies": {
     "less": "^3.11.3"
